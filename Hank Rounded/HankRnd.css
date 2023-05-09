@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Hank Rounded Regular";
+    src: url("HankRnd-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Hank Rounded Black";
+    src: url("HankRnd-Black.ttf");
+}
+
+@font-face {
+    font-family: "Hank Rounded Bold";
+    src: url("HankRnd-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Hank Rounded Light";
+    src: url("HankRnd-Light.ttf");
+}
