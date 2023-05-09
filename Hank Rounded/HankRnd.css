@@ -1,19 +1,23 @@
 @font-face {
-    font-family: "Hank Rounded Regular";
-    src: url("HankRnd-Regular.ttf");
+    font-family: "Hank Rounded";
+    src: url("HankRnd-Regular.ttf");   
+    font-weight: normal;
 }
 
 @font-face {
-    font-family: "Hank Rounded Black";
+    font-family: "Hank Rounded";
     src: url("HankRnd-Black.ttf");
+    font-weight: bolder;
 }
 
 @font-face {
-    font-family: "Hank Rounded Bold";
+    font-family: "Hank Rounded";
     src: url("HankRnd-Bold.ttf");
+    font-weight: bold;
 }
 
 @font-face {
-    font-family: "Hank Rounded Light";
+    font-family: "Hank Rounded";
     src: url("HankRnd-Light.ttf");
+    font-weight: lighter;
 }
