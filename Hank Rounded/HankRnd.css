@@ -5,13 +5,13 @@
 }
 
 @font-face {
-    font-family: "Hank Rounded";
+    font-family: "Hank Rounded Black";
     src: url("HankRnd-Black.ttf");
     font-weight: bolder;
 }
 
 @font-face {
-    font-family: "Hank Rounded";
+    font-family: "Hank Rounded Bold";
     src: url("HankRnd-Bold.ttf");
     font-weight: bold;
 }
